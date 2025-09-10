@@ -1,0 +1,6 @@
+package Enum;
+
+public enum MarcasCarro {
+	TESLA, BYD, FOR, TOYOTA, VOLKSWAGEN, RAM, FERRARI, CHEVROLETE, AUDI, MERCEDESBENZ
+
+}

@@ -1,0 +1,6 @@
+package Enum;
+
+public enum StatusPedidos {
+	ABERTO, EM_ANDAMENTO, AGUARDANDO_PAGAMENTO, CANCELADO, A_CAMINHO, ENTREGUE
+
+}
